@@ -1,4 +1,4 @@
-# API PIX 📜
+# API 📜
 
 Com API você pode integrar meios de pagamentos e recebimento ao seu sistema.
 
